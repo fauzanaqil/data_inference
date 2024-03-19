@@ -1,10 +1,10 @@
-# Project Name
+# Data Inference Web App
 
 This project is a web application designed for data inference. It allows users to upload CSV/Excel files containing data, processes the uploaded data to infer and convert data types, and presents the inferred data types to the user. The backend of the application is built using Django, a Python web framework, while the frontend is developed using React.js, a JavaScript library for building user interfaces.
 
 ## Table of Contents
 
-- [Project Name](#project-name)
+- [Data Inference Web App](#data-inference-web-app)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
