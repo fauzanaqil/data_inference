@@ -9,6 +9,7 @@ This project is a web application designed for data inference. It allows users t
   - [Installation](#installation)
   - [Usage](#usage)
   - [Additional Notes](#additional-notes)
+  - [Demo Video](#demo-video)
   - [Contributing](#contributing)
 
 ## Installation
@@ -83,6 +84,10 @@ This project is a web application designed for data inference. It allows users t
 4. *File Uploads*: The application allows users to upload CSV files containing data. Ensure that the file upload mechanism is secure and handles errors gracefully.
 5. *Data Processing*: After uploading a file, the backend processes the data to infer and convert data types. This functionality is implemented using Pandas, a powerful data manipulation library in Python.
 6. *State Management*: React components manage their state to reflect changes in the application's UI. Ensure proper state management to prevent unexpected behavior.
+
+## Demo Video
+
+You can access the demo video in [Google Drive](https://drive.google.com/file/d/16nkYm3bL1HaGwZFNL9sp6ieyo_vTckMe/view?usp=sharinghttps://)
 
 ## Contributing
 
