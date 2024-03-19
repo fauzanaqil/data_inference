@@ -1,7 +1,8 @@
-# display_data_project/data_processor/urls.py
-from django.urls import path
+from django.urls import path, include
 from . import views
 
 urlpatterns = [
-    path('upload/', views.upload_file, name='upload_file'),
+    path('upload/', views.upload_file),
+    # path('data-types/', name='data_types'),
+    # path('api/', include('data_processor.urls')),
 ]
